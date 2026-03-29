@@ -6,5 +6,5 @@ To run, download the folder, right click, open in terminal, type "python tecBot.
 
 Feel free to either:
  make your own bot from this, with more prompts and answers,
- let me know to addd any more prompts.
+ let me know to add any more prompts.
 
